@@ -1,0 +1,39 @@
+
+
+.nav-links{
+    background-color: bisque;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    border: 25px;
+    font-size: 20px;
+}
+.nav links li a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.mydiv{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+
+    
+}
+.mydiv div{
+    padding: 10px;
+    background-color: red;
+    margin: 15px;
+    justify-content: space-between;
+}
+    
+
+
+
+
+
+
+
+
+
